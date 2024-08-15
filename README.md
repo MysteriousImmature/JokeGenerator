@@ -11,7 +11,7 @@ Welcome to the **Jokes Website**! This project is a simple, fun web application 
 
 ## Screenshots
 
-![Jokes Website Screenshot](https://via.placeholder.com/800x400.png?text=Screenshot+of+Jokes+Website)
+![Jokes Website Screenshot](Joke_Generator_Screenshot.png)
 
 ## Getting Started
 
@@ -51,7 +51,7 @@ Once the website is running, you can:
 
 This project uses the following public API to fetch jokes:
 
-- **Joke API**: [https://example.com/api](https://example.com/api)
+- **Joke API**: [https://official-joke-api.appspot.com/random_joke](https://official-joke-api.appspot.com/random_joke)
 
 ## Contributing
 
@@ -65,9 +65,9 @@ Contributions are welcome! Please follow these steps:
 
 ## Acknowledgments
 
-- Thanks to the developers of the [Joke API](https://example.com/api) for providing the joke data.
+- Thanks to the developers of the [Joke API](https://official-joke-api.appspot.com/random_joke) for providing the joke data.
 - Inspired by modern web design practices.
 
 ---
 
-Made with ❤️ using HTML, CSS, and JavaScript by [MysteriousImmature](https://github.com/yourusername)
+Made with ❤️ using HTML, CSS, and JavaScript by [MysteriousImmature](https://github.com/MysteriousImmature/)
